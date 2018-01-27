@@ -105,14 +105,16 @@ img {
     font-family: 'Raleway', sans-serif;
 }
 .theme-btn {
-    background: #00299b none repeat scroll 0 0;
+    /* background: #00299b none repeat scroll 0 0; */
+    background: #000000 none repeat scroll 0 0;
     color: #fff;
     margin-top: 30px;
 }
 .btn {
     display: inline-block;
     text-align: center;
-    border: 3px solid #00299b;
+    /* border: 3px solid #00299b; */
+    border: 3px solid #000000;
     border-radius: 2px;
     position: relative;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.2);
@@ -168,7 +170,8 @@ img {
     margin: 0;
 }
 .section-title span {
-    color: #00299b;
+    /* color: #00299b; */
+    color: #000000;
 }
 .car-icon {
     display: inline-block;
@@ -401,7 +404,8 @@ img {
     position: relative;
 }
 .main-menu-area .logo::before {
-    background: #00299b;
+    /* background: #00299b; */
+    background: #000000;
     content: "";
     height: 100%;
     position: absolute;
@@ -1037,7 +1041,8 @@ img {
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     background: #f9fbfd;
-    border: 2px solid #00299b;
+    /* border: 2px solid #00299b; */
+    border: 2px solid #aa0000;
 }
 .octagon:before {
     position: absolute;
@@ -1055,7 +1060,8 @@ img {
     border: inherit;
 }
 .flaticon-oil:before, .flaticon-motor-1:before, .flaticon-breaks:before {
-    color: #00299b;
+    /* color: #00299b; */
+    color: #aa0000;
     display: inline-block;
     font-size: 55px;
     line-height: 80px;
@@ -1075,13 +1081,15 @@ img {
     margin: 30px 0 0;
 }
 .upper-line {
-    background: #00299b none repeat scroll 0 0;
+    /* background: #00299b none repeat scroll 0 0; */
+    background: #000000 none repeat scroll 0 0;
     height: 2px;
     margin: 0 auto 5px;
     width: 75px;
 }
 .bottom-line {
-    background: #00299b none repeat scroll 0 0;
+    /* background: #00299b none repeat scroll 0 0; */
+    background: #000000 none repeat scroll 0 0;
     height: 2px;
     margin: 0 auto;
     width: 42px;
