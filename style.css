@@ -2550,7 +2550,8 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     background: #262829;
 }
 .footer-logo {
-  background: #00299b;
+  /* background: #00299b; */
+  background: #000000;
   display: inline-block;
   margin-bottom: 20px;
   padding: 15px;
