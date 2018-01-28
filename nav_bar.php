@@ -21,7 +21,10 @@
                                                 <li><a href="index3.html">Home V.3</a></li> -->
                                             </ul>
                                         </li>                                          
-                                        <li><a href="contact-us.php">Contacto</a></li>
+                                        <li>
+                                            <!-- <a href="contact-us.php">Contacto</a> -->
+                                            <a href="#">Contacto</a>
+                                        </li>
                                         <!-- <li><a href="#search"><i class="fa fa-search"></i></a></li> -->
                                     </ul>
                                 </div>

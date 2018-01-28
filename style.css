@@ -881,7 +881,7 @@ img {
 	Default Slider CSS 
 	======================= */
 .slide-bg-1 {
-    background-image: url(assets/img/slide-bg-1.jpg);
+    background-image: url(slider/img_1.jpg);
 }
 .slide-bg-2 {
     background-image: url(assets/img/slide-bg-2.jpg);
@@ -1564,7 +1564,8 @@ img {
     color: #777;
 }
 .boxed-item .flaticon-crane::before, .boxed-item .flaticon-wheel-1:before, .boxed-item .flaticon-speedometer:before, .boxed-item .flaticon-car-radio:before {
-  color: #00299b;
+  /* color: #00299b; */
+  color: #f06617;
   font-size: 25px;
   line-height: 55px;
   margin-left: 0;
@@ -1608,7 +1609,8 @@ img {
     width: 100%;
 }
 .count-bg {
-   background-image: url(assets/img/count-bg.jpg);
+   /* background-image: url(assets/img/count-bg.jpg); */
+   background-image: url(backgrounds/count_bg.jpg);
 }
 .count-down-boxed {
     border: 1px solid #eee;
@@ -2109,12 +2111,14 @@ img {
 .apointment-preview-boxed {
   background-position: center center;
   background-size: cover;
-  height: 810px;
+  /* height: 810px; */
+  height: 510px;
   position: relative;
   top: 100px;
 }
 .man-image-bg {
-  background-image: url(assets/img/appoinment-man-bg.png); 
+  /* background-image: url(assets/img/appoinment-man-bg.png);  */
+  background-image: url(feature_img/calendar.jpeg);
 }
 .select-hidden {
   display: none;

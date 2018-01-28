@@ -9,8 +9,8 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-6">
                                             <h1>7.2 Mechanix, es una empresa 100% Cachanilla</h1>
-                                            <p>Value is a service of trust. The trust your customers have in you. The trust you have in your people, strategies and systems. And always delivering on expectation.</p>
-                                            <a class="btn theme-btn" href="appointment.php">Haz una reservación</a>
+                                            <p>Algo de comentarios</p>
+                                            <a class="btn theme-btn" href="appointment.php">Realiza una reservación</a>
                                         </div>
                                     </div>
                                 </div>

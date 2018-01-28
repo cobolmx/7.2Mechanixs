@@ -48,7 +48,7 @@
                 <div class="row"> 
                     <div class="col-md-3"> 
                         <div class="logo">
-                            <a href="index.html"><img src="assets/img/logo.png" alt="Logo"></a>
+                            <a href="index.html"><img src="img_logo/logo.png" alt="Logo"></a>
                         </div>
                     </div>                    
                     <div class="col-md-9"> 
@@ -77,9 +77,9 @@
                 <div class="row">
                    <div class="col-md-6 col-md-offset-3">
                        <div class="section-title text-center">
-                           <h2><span>Our featured</span> services</h2>
+                           <h2><span>Nuestros servicios</span> sobresalientes</h2>
                            <div class="car-icon"><img src="assets/img/cars.png" alt="car"></div>
-                           <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+                           <p>breve descripcion de los servicios sobresalientes</p>
                        </div>
                    </div>
                 </div>
@@ -89,10 +89,10 @@
                            <div class="octagonWrap">
                                 <div class="octagon"><i class="flaticon-oil"></i></div>
                             </div>
-                            <h3>Oil Change</h3>
+                            <h3>Cambio de aceite</h3>
                             <div class="upper-line"></div>
                             <div class="bottom-line"></div>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>
                         </div>
                     </div>
                     
@@ -101,10 +101,10 @@
                            <div class="octagonWrap">
                                 <div class="octagon"><i class="flaticon-motor-1"></i></div>
                             </div>
-                            <h3>Motor Mount</h3>
+                            <h3>Afinaciones</h3>
                             <div class="upper-line"></div>
                             <div class="bottom-line"></div>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>
                         </div>
                     </div>
                     
@@ -113,73 +113,19 @@
                            <div class="octagonWrap">
                                 <div class="octagon"><i class="flaticon-breaks"></i></div>
                             </div>
-                            <h3>Brake Repair</h3>
+                            <h3>Frenos</h3>
                             <div class="upper-line"></div>
                             <div class="bottom-line"></div>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>
                         </div>
                     </div>
                 </div>
             </div>
             
             <div class="separator-line"></div>
-            
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="services-item">
-                            <div class="box">
-                                <img src="assets/img/services-img-one.jpg" alt="Image">
-                                <h3>Transmission Repair</h3>
-                                <div class="box-content">
-                                    <h3 class="title">Transmission Repair</h3>
-                                    <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                    <ul class="icon">
-                                        <li><a class="singleImage" href="assets/img/services-img-one.jpg"><i class="fa fa-search"></i></a></li>
-                                        <li><a href="single-service.html"><i class="fa fa-link"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="services-item">
-                            <div class="box">
-                                <img src="assets/img/services-img-two.jpg" alt="Image">
-                                <h3>Suspension Repair</h3>
-                                <div class="box-content">
-                                    <h3 class="title">Suspension Repair</h3>
-                                    <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                    <ul class="icon">
-                                        <li><a class="singleImage" href="assets/img/services-img-two.jpg"><i class="fa fa-search"></i></a></li>
-                                        <li><a href="single-service.html"><i class="fa fa-link"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="services-item">
-                            <div class="box">
-                                <img src="assets/img/services-img-three.jpg" alt="Image">
-                                <h3>Car Inspection</h3>
-                                <div class="box-content">
-                                    <h3 class="title">Car Inspection</h3>
-                                    <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                    <ul class="icon">
-                                        <li><a class="singleImage" href="assets/img/services-img-three.jpg"><i class="fa fa-search"></i></a></li>
-                                        <li><a href="single-service.html"><i class="fa fa-link"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-12 text-center">
-                        <a href="services.html" class="btn theme-btn">view all services</a>
-                    </div>
-                </div>
-            </div>
+            <!-- services -->
+            <?php include 'services_gallery.php'; ?>
+            <!-- end services -->
         </div>
         <!-- End Services Area -->
     
@@ -189,9 +135,9 @@
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3">
                        <div class="section-title text-center">
-                           <h2><span>Why choose</span> us</h2>
+                           <h2><span>Por que </span> elegirnos?</h2>
                            <div class="car-icon"><img src="assets/img/cars.png" alt="car"></div>
-                           <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.</p>
+                           <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>
                        </div>
                     </div>
                 </div>
@@ -200,8 +146,8 @@
                         <div class="boxed-item">
                             <span class="sirial-number">01</span>
                             <span class="single-boxed"><i class="flaticon-crane"></i></span>
-                            <h3>Car Inspection</h3>
-                            <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+                            <h3>Servicio 1</h3>
+                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>  
                         </div>
                     </div>
                     
@@ -209,8 +155,8 @@
                         <div class="boxed-item">
                             <span class="sirial-number">02</span>
                             <span class="single-boxed"><i class="flaticon-wheel-1"></i></span>
-                            <h3>Tires Services</h3>
-                            <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+                            <h3>Servicio 2</h3>
+                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>  
                         </div>
                     </div>
                     
@@ -218,8 +164,8 @@
                         <div class="boxed-item">
                             <span class="sirial-number">03</span>
                             <span class="single-boxed"><i class="flaticon-speedometer"></i></span>
-                            <h3>Schedule Service</h3>
-                            <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+                            <h3>Servicio 3</h3>
+                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>  
                         </div>
                     </div>
                     
@@ -227,14 +173,16 @@
                         <div class="boxed-item">
                             <span class="sirial-number">04</span>
                             <span class="single-boxed"><i class="flaticon-car-radio"></i></span>
-                            <h3>Radiator Repair</h3>
-                            <p>It is a long established fact that a reader will be distracted by the readable content.</p>  
+                            <h3>Servicio 4</h3>
+                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>  
                         </div>
                     </div>
                 </div>
                 
                 <div class="col-md-12 text-center">
-                    <a href="about-us.html" class="btn theme-btn">about us</a>
+                    <!-- pendiente -->
+                    <!-- <a href="about-us.html" class="btn theme-btn">about us</a> -->
+                    <a href="#" class="btn theme-btn">Acerca de nosotros</a>
                 </div>
             </div>
         </div>
@@ -247,25 +195,25 @@
                     <div class="col-sm-6 col-md-3">
                         <div class="count-down-boxed text-center">
                             <span class="count-icon"><i class="ion-ios-people-outline"></i> <span class="count-number counter">12,500</span></span>
-                            <h3 class="count-info">Happy Clients</h3>
+                            <h3 class="count-info">Clientes satisfechos</h3>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="count-down-boxed text-center">
                             <span class="count-icon"><i class="ion-ios-partlysunny-outline"></i> <span class="count-number counter">17,500</span></span>
-                            <h3 class="count-info">Completed Projects</h3>
+                            <h3 class="count-info">proyectos completados</h3>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="count-down-boxed text-center">
                             <span class="count-icon"><i class="ion-ios-paperplane-outline"></i> <span class="count-number counter">15,500</span></span>
-                            <h3 class="count-info">WINNING AWARD</h3>
+                            <h3 class="count-info">Cotizaciones</h3>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="count-down-boxed text-center">
                             <span class="count-icon"><i class="ion-ios-thunderstorm-outline"></i> <span class="count-number counter">14,500</span></span>
-                            <h3 class="count-info">Hours Worked</h3>
+                            <h3 class="count-info">Horas laboradas</h3>
                         </div>
                     </div>
                 </div>
@@ -274,7 +222,7 @@
         <!-- End Count-Down Area -->
         
         <!-- Start Auto Body Services Area -->
-        <div class="content-block-area">
+        <!-- <div class="content-block-area">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-md-6">
@@ -322,7 +270,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- End Auto Body Services Area -->
         
         <!-- Start Our testimonials Area -->
@@ -331,18 +279,18 @@
                 <div class="row">
                     <div class="col-sm-12 col-md-4">
                         <div class="section-title text-right">
-                            <h3>our clients</h3>
-                            <h2><span>CLIENTS THAT TRUST</span> OUR SERVICES</h2>
+                            <h3>Nuestros clientes</h3>
+                            <h2><span>Clientes que confian</span> en nuestros servicios</h2>
                        </div>
                         <div class="testimonials-car-boxed wow fadeInLeft">
-                           <img src="assets/img/testimonial-car.png" alt="Image">
+                           <img src="feature_img/testimonials.jpg" alt="Image">
                         </div>
                     </div>
                     
                     <div class="col-sm-6 col-md-4">
                         <div class="testimonial-item">
                             <div class="testimonial-single-item">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to  making it look like readable English.</p>
+                                <p>aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican</p>
                                 <ul>
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
@@ -361,13 +309,13 @@
                     <div class="col-sm-6 col-md-4">
                         <div class="testimonial-item">
                             <div class="testimonial-single-item">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to  making it look like readable English.</p>
+                                <p>aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican</p>
                                 <ul>
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
                                     <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
+                                    <!-- <li><i class="fa fa-star"></i></li> -->
                                 </ul>
                             </div>
                             <div class="quotation-profile">
@@ -376,9 +324,9 @@
                         </div>
                     </div>
                     
-                    <div class="col-sm-12 col-md-8 col-md-offset-4 text-center">
+                    <!-- <div class="col-sm-12 col-md-8 col-md-offset-4 text-center">
                         <a href="#" class="btn theme-btn">see testimonials</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -393,16 +341,16 @@
                     </div>
                     <div class="col-md-6">
                        <div class="section-title text-center">
-                           <h2><span>request an</span> appointment</h2>
+                           <h2><span>Solicite </span> una cita</h2>
                            <div class="car-icon"><img src="assets/img/cars.png" alt="car"></div>
-                           <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. .</p>
+                           <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion</p>
                        </div>
                         <form class="appointment-form" action="index.html">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <label>Vehicle Information</label>
+                                    <label>Información del vehículo</label>
                                     <select id="Year">
-                                        <option value="hide">-- Year, Model --</option>
+                                        <option value="hide">-- Año, Modelo --</option>
                                         <option value="2010">2010</option>
                                         <option value="2011">2011</option>
                                         <option value="2012">2012</option>
@@ -414,15 +362,15 @@
                                     </select>
                                 </div>
                                 <div class="col-md-6">
-                                    <label>Select Services</label>
+                                    <label>Seleccionar servicio</label>
                                     <select id="selectServices">
-                                        <option value="hide">-- Select Service --</option>
-                                        <option value="1">Aluminum Repair</option>
-                                        <option value="2">Fender Repair</option>
-                                        <option value="3">Auto Painting</option>
+                                        <option value="hide">-- Seleccionar servicio --</option>
+                                        <option value="1">Cambio de frenos</option>
+                                        <option value="2">Cambio de aceite</option>
+                                        <!-- <option value="3">Auto Painting</option>
                                         <option value="4">Oil Change</option>
                                         <option value="4">Collision Repair</option>
-                                        <option value="4">Break Repair</option>
+                                        <option value="4">Break Repair</option> -->
                                     </select>
                                 </div>
                             </div>
