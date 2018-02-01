@@ -253,13 +253,19 @@ img {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	border-radius: 97px;
-	border: 5px solid rgb(0,41,155);
+    border-radius: 97px;
+    border: 5px solid rgb(202, 0, 0);
+	box-shadow: 0 0 49px rgb(202, 0, 0), inset 0 0 49px rgb(202, 0, 0);
+		-o-box-shadow: 0 0 49px rgb(202, 0, 0), inset 0 0 49px rgb(202, 0, 0);
+		-ms-box-shadow: 0 0 49px rgb(202, 0, 0), inset 0 0 49px rgb(202, 0, 0);
+		-webkit-box-shadow: 0 0 49px rgb(202, 0, 0), inset 0 0 49px rgb(202, 0, 0);
+		-moz-box-shadow: 0 0 49px rgb(202, 0, 0), inset 0 0 49px rgb(202, 0, 0);
+	/* border: 5px solid rgb(0,41,155);
 	box-shadow: 0 0 49px rgb(0,41,155), inset 0 0 49px rgb(0,41,155);
 		-o-box-shadow: 0 0 49px rgb(0,41,155), inset 0 0 49px rgb(0,41,155);
 		-ms-box-shadow: 0 0 49px rgb(0,41,155), inset 0 0 49px rgb(0,41,155);
 		-webkit-box-shadow: 0 0 49px rgb(0,41,155), inset 0 0 49px rgb(0,41,155);
-		-moz-box-shadow: 0 0 49px rgb(0,41,155), inset 0 0 49px rgb(0,41,155);
+		-moz-box-shadow: 0 0 49px rgb(0,41,155), inset 0 0 49px rgb(0,41,155); */
 }
 
 .cssload-loader:after {
@@ -404,8 +410,8 @@ img {
     position: relative;
 }
 .main-menu-area .logo::before {
-    /* background: #00299b; */
-    background: #000000;
+    background: #ffffff;
+    /* background: #000000; */
     content: "";
     height: 100%;
     position: absolute;
@@ -427,8 +433,8 @@ img {
 }
 .logo-two {
 	text-align: center;
-	background-color: #00299b;
-	max-width: 390px;
+    background-color: #00299b;
+    	max-width: 390px;
 	margin: auto;
 	padding-bottom: 15px;
 }
@@ -2551,7 +2557,7 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
 }
 .footer-logo {
   /* background: #00299b; */
-  background: #000000;
+  /* background: #000000; */
   display: inline-block;
   margin-bottom: 20px;
   padding: 15px;

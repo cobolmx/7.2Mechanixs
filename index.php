@@ -48,7 +48,7 @@
                 <div class="row"> 
                     <div class="col-md-3"> 
                         <div class="logo">
-                            <a href="index.html"><img src="img_logo/logo.png" alt="Logo"></a>
+                            <a href="index.html"><img src="img_logo/logo_header.png" alt="Logo"></a>
                         </div>
                     </div>                    
                     <div class="col-md-9"> 
@@ -540,10 +540,10 @@
                 </div>
                 <div class="partner-slides">
                     <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="assets/img/partner-1.png" alt="Image Description"></a>
+                        <a class="partners-logo" href="#"><img src="logos/securitas.png" alt="Securitas Logo"></a>
                     </div>
                     <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="assets/img/partner-2.png" alt="Image Description"></a>
+                        <a class="partners-logo" href="#"><img src="logos/gendarmeria.png" alt="Image Description"></a>
                     </div>
                     <div class="single-partner-slide">
                         <a class="partners-logo" href="#"><img src="assets/img/partner-3.png" alt="Image Description"></a>
@@ -588,7 +588,7 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-12">
                             <div class="footer-wid">
-                                <a href="index.html" class="footer-logo"><img src="img_logo/logo.png" alt="logo"></a>
+                                <a href="index.html" class="footer-logo"><img src="img_logo/logo_header.png" alt="logo"></a>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                 <a href="#" class="link-color">Read More About Us <i class="fa  fa-long-arrow-right"></i></a>
                             </div>
@@ -636,7 +636,7 @@
                                         </div>
                                         <div class="subscribe">
                                             <form action="index.html">
-                                                <input type="text" placeholder="Type your email" required>
+                                                <input type="text" placeholder="Correo eléctronico" required>
                                                 <button>Subscribirse <i class="fa  fa-paper-plane"></i></button>
                                             </form>
                                         </div>

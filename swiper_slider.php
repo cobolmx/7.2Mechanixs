@@ -3,19 +3,20 @@
                 <div class="swiper-wrapper">
                     <!-- Slides -->
                     <div class="swiper-slide slide-bg-1">
-                        <div class="d-table">
+                        <!-- <div class="d-table">
                             <div class="d-table-cell">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-6">
                                             <h1>7.2 Mechanix, es una empresa 100% Cachanilla</h1>
-                                            <p>Algo de comentarios</p>
-                                            <a class="btn theme-btn" href="appointment.php">Realiza una reservación</a>
-                                        </div>
+                                            <p>Algo de comentarios</p> -->
+                                            <!-- <a class="btn theme-btn" href="appointment.php">Realiza una reservación</a> -->
+                                            <!-- <a class="btn theme-btn" href="#">Realiza una reservación</a> -->
+                                        <!-- </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     
                     <!-- <div class="swiper-slide slide-bg-2">
