@@ -12,8 +12,8 @@
    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <div class="main-menu">
          <ul class="nav navbar-nav navbar-right">
-         <li class="active"><a href="index.php">Inicio</a></li>            
-            <li>
+            <li class=""><a href="index.php">Inicio</a></li>            
+            <li class="active">
                <a href="contact-us.php">Contacto</a>
                <!-- <a href="#">Contacto</a> -->
             </li>

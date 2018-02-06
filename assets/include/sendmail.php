@@ -8,37 +8,37 @@
 	$messagebody = $_POST['message']; 	
 	
 	// Set the from email address.
-	$from = "<example@example.com>";
+	$from = "<info@72mechanix.com>";
 	
 	// Set the recipient email address.
     // FIXME: Update this to your desired email address.
-	$to = "example@domainname.com"; 
+	$to = "irodrigu@gmail.com"; 
 
 	// Build the email content.
 	$message = "
-				Hi,
+				Hola,
 
-				A visitor has been sent a query from AutoServicing.
+				Un visitante envio una solicitud del sitio 7.2 Mechanix.
+				
+				Nombre: $name
 
-				Name: $name
+				Correo eléctronico: $email
 
-				Visitor Email: $email
+				Tema: $subject
 
-				Subject: $subject
+				Teléfono: $phone
 
-				Phone: $phone
-
-				Message: $messagebody
+				Mensaje: $messagebody
 
 
-				Thanks,
+				Gracias,
 
-				AutoServicing 
+				7.2 Mechanix
 
 				
-				This message was sent to $to.  
+				Este mensaje fue enviado a $to.  
 
-				AutoServicing Ltd. 1828 Johns Drive Glenview, IL 60025.
+				7.2 Mechanix Blvd. Lázaro Cárdenas #615 Fracc. Jardines del Lago.
 				"; 
 
 

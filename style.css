@@ -1829,7 +1829,8 @@ img {
     background-image: url(assets/img/breadcumbs-bg-1.jpg);
 }
 .breadcumbs-bg-2 {
-    background-image: url(assets/img/breadcumbs-bg-2.jpg);
+    /* background-image: url(assets/img/breadcumbs-bg-2.jpg); */
+    background-image: url(feature_img/contactenos_banner.jpg);
 }
 .breadcumbs-area::before {
   background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
@@ -3016,7 +3017,8 @@ a.pagi-number:hover, .pagination-area li.active a.pagi-number {
     background-position: center center;
 }
 .contact-img-bg {
-    background-image: url(assets/img/contact-img-bg.png);
+    /* background-image: url(assets/img/contact-img-bg.png); */
+    background-image: url(feature_img/contact_us.jpg);
 }
 #map {
   background-color: #eaeaea;

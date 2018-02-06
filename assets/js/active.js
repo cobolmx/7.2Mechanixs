@@ -278,8 +278,12 @@ Version      : 1.1
         
         // Google Map
         $("#map").googleMap();
-        $("#map").addMarker({
-            coords: [40.712784, -74.005941]
+        $("#map").addMarker({            
+            coords: [32.6240258, -115.4833426],
+            icon: true,
+            title: '7.2 Mechanix',
+            text: '7.2 Mechanix',
+            address: true
         });
 
         // Input Field Space Validatiton
@@ -322,13 +326,13 @@ Version      : 1.1
                 .done(function(response) {
                     $('#contact_send_status').removeClass('message_notsend');
                     $('#contact_send_status').addClass('message_send');
-                    $('#contact_send_status').html("<div class='alert alert-success' role='alert'>Your email successfully Sent ! Thank you.</div>");
+                    $('#contact_send_status').html("<div class='alert alert-success' role='alert'>Su comentarios fueron enviados correctamente, Gracias!.</div>");
                     $("#contact_send_status").fadeOut(3000);				
                 })
                 .fail(function(data) {
                     jQuery('#contact_send_status').removeClass('message_send');
                     jQuery('#contact_send_status').addClass('message_notsend');
-                    jQuery('#contact_send_status').html("<div class='alert alert-danger' role='alert'>Something wrong please try again!</div>");
+                    jQuery('#contact_send_status').html("<div class='alert alert-danger' role='alert'>Algo ocurrio favor de intentar de nuevo.</div>");
                 });
             }
         });
