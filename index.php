@@ -144,13 +144,12 @@
                        </div>
                     </div>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-sm-6 col-md-3">
                         <div class="boxed-item">
                             <span class="sirial-number">01</span>
                             <span class="single-boxed"><i class="flaticon-crane"></i></span>
-                            <h3>Cambio de aceite</h3>
-                            <!-- <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>   -->
+                            <h3>Cambio de aceite</h3>                            
                             <ul>
                                 <li>Aceite Mobil Grados 5w-20, 10w-30, 15w-40, 20w-50</li>
                                 <li>Filtro Fram</li>
@@ -185,12 +184,12 @@
                             <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>  
                         </div>
                     </div>
-                </div>
+                </div> -->
                 
                 <div class="col-md-12 text-center">
                     <!-- pendiente -->
                     <!-- <a href="about-us.html" class="btn theme-btn">about us</a> -->
-                    <a href="about-us.html" class="btn theme-btn">Acerca de nosotros</a>
+                    <a href="" class="btn theme-btn">Acerca de nosotros</a>
                 </div>
             </div>
         </div>
@@ -282,62 +281,7 @@
         <!-- End Auto Body Services Area -->
         
         <!-- Start Our testimonials Area -->
-        <div class="content-block-area gray-bg">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12 col-md-4">
-                        <div class="section-title text-right">
-                            <h3>Nuestros clientes</h3>
-                            <h2><span>Clientes que confian</span> en nuestros servicios</h2>
-                       </div>
-                        <div class="testimonials-car-boxed wow fadeInLeft">
-                           <img src="feature_img/testimonials.jpg" alt="Image">
-                        </div>
-                    </div>
-                    
-                    <div class="col-sm-6 col-md-4">
-                        <div class="testimonial-item">
-                            <div class="testimonial-single-item">
-                                <p>aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican</p>
-                                <ul>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
-                            </div>
-                            
-                            <div class="quotation-profile">
-                                <img src="assets/img/testimonials-1.jpg" alt="Image">
-                            </div>  
-                        </div>
-                    </div>
-                    
-                    <div class="col-sm-6 col-md-4">
-                        <div class="testimonial-item">
-                            <div class="testimonial-single-item">
-                                <p>aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican aqui hay que poner algunos testimonios con descripcion si es que aplican</p>
-                                <ul>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <!-- <li><i class="fa fa-star"></i></li> -->
-                                </ul>
-                            </div>
-                            <div class="quotation-profile">
-                                <img src="assets/img/31m.jpg" alt="Image">
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <!-- <div class="col-sm-12 col-md-8 col-md-offset-4 text-center">
-                        <a href="#" class="btn theme-btn">see testimonials</a>
-                    </div> -->
-                </div>
-            </div>
-        </div>
+        <?php include 'testimonials.php'; ?>
         <!-- End Our testimonials Area -->
         
         <!-- Start Appointment Area -->
@@ -535,39 +479,7 @@
         <!-- End News Area -->
         
         <!-- Start Our Parners Area -->
-        <div class="content-block-area">
-            <div class="container">
-               <div class="row">
-                   <div class="col-md-6 col-md-offset-3">
-                       <div class="section-title text-center">
-                           <h2><span>Nuestros</span> Clientes</h2>
-                           <div class="car-icon"><img src="assets/img/cars.png" alt="car"></div>
-                           <p>Aqui va el barrido de nuestros clientes</p>
-                       </div>
-                   </div>
-                </div>
-                <div class="partner-slides">
-                    <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="logos/securitas.png" alt="Securitas Logo"></a>
-                    </div>
-                    <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="logos/gendarmeria.png" alt="Image Description"></a>
-                    </div>
-                    <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="assets/img/partner-3.png" alt="Image Description"></a>
-                    </div>
-                    <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="assets/img/partner-4.png" alt="Image Description"></a>
-                    </div>
-                    <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="assets/img/partner-5.png" alt="Image Description"></a>
-                    </div>
-                    <div class="single-partner-slide">
-                        <a class="partners-logo" href="#"><img src="assets/img/partner-6.png" alt="Image Description"></a>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include 'our_partners.php'; ?>
         <!-- End Our Parners Area -->
         
         <!-- Footer Area -->
