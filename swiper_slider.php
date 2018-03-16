@@ -19,8 +19,8 @@
                         </div> -->
                     </div>
                     
-                    <!-- <div class="swiper-slide slide-bg-2">
-                        <div class="d-table">
+                    <div class="swiper-slide slide-bg-2">
+                        <!-- <div class="d-table">
                             <div class="d-table-cell">
                                 <div class="container">
                                     <div class="row">
@@ -32,11 +32,11 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
                     
-                    <!-- <div class="swiper-slide slide-bg-3">
-                        <div class="d-table">
+                    <div class="swiper-slide slide-bg-3">
+                        <!-- <div class="d-table">
                             <div class="d-table-cell">
                                 <div class="container">
                                     <div class="row">
@@ -48,8 +48,38 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div> -->
+                        </div> -->
+                    </div>
+                    <div class="swiper-slide slide-bg-4">
+                        <!-- <div class="d-table">
+                            <div class="d-table-cell">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-6 col-md-offset-6">
+                                            <h1>With over 25 years of experience in auto services work</h1>
+                                            <p>Value is a service of trust. The trust your customers have in you. The trust you have in your people, strategies and systems. And always delivering on expectation.</p>
+                                            <a class="btn theme-btn" href="appointment.html">make an appointment</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
+                    <div class="swiper-slide slide-bg-5">
+                        <!-- <div class="d-table">
+                            <div class="d-table-cell">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-6 col-md-offset-6">
+                                            <h1>With over 25 years of experience in auto services work</h1>
+                                            <p>Value is a service of trust. The trust your customers have in you. The trust you have in your people, strategies and systems. And always delivering on expectation.</p>
+                                            <a class="btn theme-btn" href="appointment.html">make an appointment</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                    </div>
                 </div>
                 <!-- If we need pagination -->
                 <div class="swiper-pagination swiper-pagination1"></div>

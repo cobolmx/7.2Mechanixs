@@ -104,7 +104,7 @@
                             <h3>Afinaciones</h3>
                             <div class="upper-line"></div>
                             <div class="bottom-line"></div>
-                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>
+                            <p>Afinaciones por computadora y con los mejores técnicos. </p>
                         </div>
                     </div>
                     
@@ -116,7 +116,7 @@
                             <h3>Frenos</h3>
                             <div class="upper-line"></div>
                             <div class="bottom-line"></div>
-                            <p>texto agregar para descripcion de los servicios puede ser muy larga la descripcion </p>
+                            <p>Útilizamos componentes de los mejores en el mercado.</p>
                         </div>
                     </div>
                 </div>
@@ -137,10 +137,10 @@
                        <div class="section-title text-center">
                            <h2><span>Por que </span> elegirnos?</h2>
                            <div class="car-icon"><img src="assets/img/cars.png" alt="car"></div>
-                           <p>Somos especialistas en cual nos enfocamos en proveer un excelente servicio, 
-                           le damos el mismo profesionalismo tanto flotillas y particulares. 
-                           Nuestros precios son los más competitivos del mercado, 
-                           contamos con una buena ubicación y seguridad. </p>
+                           <p>Somos especialistas en mantenimiento automotriz nos enfocamos en los servicios que proveemos 
+                           sean de excelencia siempre con el mismo profesionalismo atendemos tanto como flotillas y particulares. 
+                            Nuestros precios son los más competitivos del Mercado y tenemos una excelente ubicación, así como garantía de 
+                            nuestros servicios y seguro de responsabilidad civil para las unidades que recibimos. </p>
                        </div>
                     </div>
                 </div>
@@ -186,17 +186,15 @@
                     </div>
                 </div> -->
                 
-                <div class="col-md-12 text-center">
-                    <!-- pendiente -->
-                    <!-- <a href="about-us.html" class="btn theme-btn">about us</a> -->
+                <!-- <div class="col-md-12 text-center">                    
                     <a href="" class="btn theme-btn">Acerca de nosotros</a>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- End Why Choose Us Area -->
         
         <!-- Start Count-Down Area -->
-        <div class="count-down-area count-bg jarallax">
+        <!-- <div class="count-down-area count-bg jarallax">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-md-3">
@@ -225,7 +223,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- End Count-Down Area -->
         
         <!-- Start Auto Body Services Area -->
@@ -281,7 +279,7 @@
         <!-- End Auto Body Services Area -->
         
         <!-- Start Our testimonials Area -->
-        <?php include 'testimonials.php'; ?>
+        <?php //include 'testimonials.php'; ?>
         <!-- End Our testimonials Area -->
         
         <!-- Start Appointment Area -->

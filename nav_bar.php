@@ -13,7 +13,7 @@
       <div class="main-menu">
          <ul class="nav navbar-nav navbar-right">
          <li class="active"><a href="index.php">Inicio</a></li>            
-         <li><a href="services.php">Servicios</a></li>    
+         <li><a href="services.php">Galeria</a></li>    
             <li>             
                <a href="contact-us.php">Contacto</a>
                <!-- <a href="#">Contacto</a> -->

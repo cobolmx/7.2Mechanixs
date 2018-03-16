@@ -890,11 +890,18 @@ img {
     background-image: url(slider/img_1.jpg);
 }
 .slide-bg-2 {
-    background-image: url(assets/img/slide-bg-2.jpg);
+    background-image: url(slider/img_2.jpg);
 }
 .slide-bg-3 {
-    background-image: url(assets/img/slide-bg-3.jpg);
+    background-image: url(slider/img_3.jpg);
 }
+.slide-bg-4 {
+    background-image: url(slider/img_4.jpg);
+}
+.slide-bg-5 {
+    background-image: url(slider/img_5.jpg);
+}
+
 .swiper-slide {
     height: 720px;
     background-size: cover;

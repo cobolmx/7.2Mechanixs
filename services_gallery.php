@@ -50,7 +50,7 @@
                     </div>
                     
                     <div class="col-md-12 text-center">
-                        <a href="services.php" class="btn theme-btn">Ver todos los servicios</a>
+                        <a href="services.php" class="btn theme-btn">Ver galeria</a>
                     </div>
                 </div>
             </div>

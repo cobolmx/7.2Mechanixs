@@ -92,6 +92,150 @@
         <!-- Start Services Area -->
         <div class="content-block-area">
             <div class="container">
+                <!-- <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="gallery/1.jpeg" alt="Image">
+                            <h3>Transmission Repair</h3>
+                            <div class="box-content">
+                                <h3 class="title">Transmission Repair</h3>
+                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="gallery/1.jpeg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="gallery/2.jpeg" alt="Image">
+                            <!-- <h3>Suspension Repair</h3> -->
+                            <div class="box-content">
+                                <!-- <h3 class="title">Suspension Repair</h3> -->
+                                <!-- <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span> -->
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="gallery/2.jpeg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="gallery/3.jpeg" alt="Image">
+                            <!-- <h3>Car Inspection</h3> -->
+                            <div class="box-content">
+                                <!-- <h3 class="title">Car Inspection</h3> -->
+                                <!-- <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span> -->
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="gallery/3.jpeg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="gallery/4.jpeg" alt="Image">
+                            <!-- <h3>Transmission Repair</h3> -->
+                            <div class="box-content">
+                                <!-- <h3 class="title">Transmission Repair</h3> -->
+                                <!-- <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span> -->
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="gallery/4.jpeg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="gallery/5.jpeg" alt="Image">
+                            <!-- <h3>Suspension Repair</h3> -->
+                            <div class="box-content">
+                                <!-- <h3 class="title">Suspension Repair</h3> -->
+                                <!-- <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span> -->
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="gallery/5.jpeg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="gallery/6.jpeg" alt="Image">
+                            <!-- <h3>Car Inspection</h3> -->
+                            <div class="box-content">
+                                <!-- <h3 class="title">Car Inspection</h3> -->
+                                <!-- <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span> -->
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="gallery/6.jpeg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="gallery/7.jpeg" alt="Image">
+                            <!-- <h3>Transmission Repair</h3> -->
+                            <div class="box-content">
+                                <!-- <h3 class="title">Transmission Repair</h3> -->
+                                <!-- <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span> -->
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="gallery/7.jpeg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="assets/img/services-img-8.jpg" alt="Image">
+                            <h3>Suspension Repair</h3>
+                            <div class="box-content">
+                                <h3 class="title">Suspension Repair</h3>
+                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="assets/img/services-img-8.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="services-item">
+                        <div class="box">
+                            <img src="assets/img/services-img-9.jpg" alt="Image">
+                            <h3>Car Inspection</h3>
+                            <div class="box-content">
+                                <h3 class="title">Car Inspection</h3>
+                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                <ul class="icon">
+                                    <li><a class="lightbox" href="assets/img/services-img-9.jpg"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-sm-6 col-md-4">
                     <div class="services-item">
                         <div class="box">
@@ -140,151 +284,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-4.jpg" alt="Image">
-                            <h3>Transmission Repair</h3>
-                            <div class="box-content">
-                                <h3 class="title">Transmission Repair</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-4.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-5.jpg" alt="Image">
-                            <h3>Suspension Repair</h3>
-                            <div class="box-content">
-                                <h3 class="title">Suspension Repair</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-5.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-6.jpg" alt="Image">
-                            <h3>Car Inspection</h3>
-                            <div class="box-content">
-                                <h3 class="title">Car Inspection</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-6.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-7.jpg" alt="Image">
-                            <h3>Transmission Repair</h3>
-                            <div class="box-content">
-                                <h3 class="title">Transmission Repair</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-7.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-8.jpg" alt="Image">
-                            <h3>Suspension Repair</h3>
-                            <div class="box-content">
-                                <h3 class="title">Suspension Repair</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-8.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-9.jpg" alt="Image">
-                            <h3>Car Inspection</h3>
-                            <div class="box-content">
-                                <h3 class="title">Car Inspection</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-9.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-one.jpg" alt="Image">
-                            <h3>Transmission Repair</h3>
-                            <div class="box-content">
-                                <h3 class="title">Transmission Repair</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-one.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-two.jpg" alt="Image">
-                            <h3>Suspension Repair</h3>
-                            <div class="box-content">
-                                <h3 class="title">Suspension Repair</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-two.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                    <div class="services-item">
-                        <div class="box">
-                            <img src="assets/img/services-img-three.jpg" alt="Image">
-                            <h3>Car Inspection</h3>
-                            <div class="box-content">
-                                <h3 class="title">Car Inspection</h3>
-                                <span class="post">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                <ul class="icon">
-                                    <li><a class="lightbox" href="assets/img/services-img-three.jpg"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-sm-6 col-md-4">
                     <div class="services-item">
@@ -333,10 +332,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="col-sm-12 col-md-12 text-center">
-                    <a href="#" id="loadmore" class="btn theme-btn">view more</a>
+                    <a href="#" id="loadmore" class="btn theme-btn">ver más</a>
                 </div>
             </div>
             
@@ -345,7 +344,7 @@
         
          
         <!-- Start Our testimonials Area -->
-        <?php include 'testimonials.php'; ?>
+        <!-- <?php //include 'testimonials.php'; ?> -->
         <!-- End Our testimonials Area -->
         
         <!-- Start Our Parners Area -->
