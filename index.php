@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>7.2 Mechanix</title>
         <!-- Favicon -->
-        <link rel="icon" sizes="16x16" href="assets/img/favicon-icon.png">
+        <!-- <link rel="icon" sizes="16x16" href="assets/img/favicon-icon.png"> -->
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 		<!-- Font-awesome CSS -->
@@ -31,6 +31,8 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 		<!-- jQuery min js -->
 		<script src="assets/js/jquery-1.12.4.min.js"></script>
+        
+        <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
 	</head>
 	
 	<body>
